@@ -9,7 +9,7 @@ Available offers:
 - Buy two t-shirts and get a jacket half its price.
 */
 
-public class ProductsOffers /*extends ProductsCatalog*/ {
+public class ProductsOffers {
 
     double shoesDiscount;
     double tshirtsJacketDiscount;
